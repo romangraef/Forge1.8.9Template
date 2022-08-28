@@ -1,6 +1,6 @@
-# Architectury Loom based template for 1.8.9 forge mods
+# Architectury Loom based template for 1.12.2 forge mods
 
-**For a 1.12.2 template, checkout [`1.12`](https://github.com/romangraef/Forge1.8.9Template/tree/1.12/)**
+**For a 1.8.9 template, checkout [`master`](https://github.com/romangraef/Forge1.8.9Template/tree/master/)**
 
 To get started, clone this repository and replace all references to `examplemod` or `com.example` with your own names.
 
